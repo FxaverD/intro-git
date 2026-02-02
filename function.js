@@ -21,3 +21,5 @@ console.log ('hello world')
 // for ex: git reset --hard <code> ini akan dihapus semua even the history of changes ny, jadi lebih bahaya
 // for ex: git reset --soft <code> ini akan menghapus semua commit, tetapi tidak menghapus yang di vs code, kalau tidak jadi, tinggal di commit lgi saja
 
+//git remote add origin <https://github.com/FxaverD/intro-git.git (get the origin link from the github web after creating the respiratory)
+//git push -u origin main
